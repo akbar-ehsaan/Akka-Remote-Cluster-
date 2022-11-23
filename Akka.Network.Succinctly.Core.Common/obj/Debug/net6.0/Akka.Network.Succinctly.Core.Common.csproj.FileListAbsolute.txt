@@ -1,0 +1,12 @@
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\bin\Debug\net6.0\Akka.Network.Succinctly.Core.Common.deps.json
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\bin\Debug\net6.0\Akka.Network.Succinctly.Core.Common.dll
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\bin\Debug\net6.0\ref\Akka.Network.Succinctly.Core.Common.dll
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\bin\Debug\net6.0\Akka.Network.Succinctly.Core.Common.pdb
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\obj\Debug\net6.0\Akka.Network.Succinctly.Core.Common.csproj.AssemblyReference.cache
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\obj\Debug\net6.0\Akka.Network.Succinctly.Core.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\obj\Debug\net6.0\Akka.Network.Succinctly.Core.Common.AssemblyInfoInputs.cache
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\obj\Debug\net6.0\Akka.Network.Succinctly.Core.Common.AssemblyInfo.cs
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\obj\Debug\net6.0\Akka.Network.Succinctly.Core.Common.csproj.CoreCompileInputs.cache
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\obj\Debug\net6.0\Akka.Network.Succinctly.Core.Common.dll
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\obj\Debug\net6.0\ref\Akka.Network.Succinctly.Core.Common.dll
+D:\Users\e.akbar\source\repos\akka.remote\Akka.Network.Succinctly.Core.Common\obj\Debug\net6.0\Akka.Network.Succinctly.Core.Common.pdb
